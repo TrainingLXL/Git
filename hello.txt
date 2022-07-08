@@ -3,3 +3,4 @@ hello world git!!!
 hello world git!!!
 hello soochow university!!!
 git is a good tool to manage my code.
+Git is easy to learn and has a tiny footprint with lightning fast performance.
