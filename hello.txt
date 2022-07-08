@@ -1,4 +1,5 @@
 hello world!!!
 hello world git!!!
-hello world git.
+hello world git!!!
 hello soochow university!!!
+git is a good tool to manage my code.
